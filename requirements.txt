@@ -6,4 +6,6 @@ jupyter
 ipykernel
 pyzmq
 scikit-learn
+catboost
+xgboost
 #-e .
